@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">newsReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="loginButton">LogIn</string>
+    <string name="login_succesful">Welcome!</string>
+	<string name="login_error">Wrong user/pass</string>
+</resources>
